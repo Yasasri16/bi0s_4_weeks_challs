@@ -1,0 +1,3 @@
+I got the code.. It takes some input and stores it in a var "buf".. It prints our initial input in hexa decimal format.. Then it says our data got mangled.. But yea.. There is actually no change in our input.. Then it will print the expected result which is "dflxm".. since the data didn't change, the input which we have to give to get the license key is the "dflxm" itself.. If the input and the expected result matches, it will print the flag..
+
+Same with the level 1.1.. This time, the input has to be "hllkq" to get the flag..
