@@ -1,0 +1,3 @@
+I got the code.. It takes some input and stores it in a var "buf".. It prints our initial input in hexa decimal format.. Then it says our data got mangled.. The logic behind the mangling is that the characters at 0th index and 3rd index gets swapped.. In the normal sense, the first and fourth characters gets swapped.. Then it prints the expected result in hexa decimal format too.. After our data got mangled, it will compare our input to "tvcsp" and if they match, flag will be printed.. So clearly the input has to be "svctp".. The flag will be printed after this..
+
+Same with the level 2.1.. In the levels, the characters at 1st and 3rd gets swapped.. After thr mangling is done, the input becomes "zalfm".. So the input has to be "zflam"
