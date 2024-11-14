@@ -1,0 +1,1 @@
+When I started the challenge, there are many folders in the file system.. There is a folder named challenge.. I opened it and it has the file that needs to be reversed.. I opened it using VS Code and downloaded the file.. Then I used binary ninja cloud to decompile and diassemble the code.. It gave me a better and human readable and understandable code..
