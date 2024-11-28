@@ -1,0 +1,1 @@
+When I ran the file "embryogdb_level4" using "gdb ./embryogdb_level4" , I got the level description.. We were asked to figure out the series of random values on the stack.. This is same as before..
