@@ -1,0 +1,1 @@
+When I ran the file "embryogdb_level1" using "gdb ./embryogdb_level1" , I can see that the break point is set at some instruction in main.. The description of this level asked us to use "continue" which makes the program to continue after the break point.. So i used "c" which is short for "continue".. It gave me the flag..
