@@ -7,11 +7,8 @@ After executing the file, gdb took control over this program
 ![image](https://github.com/user-attachments/assets/068cecdf-ba20-4e6c-879d-0930aa674354)
 
 We can see that there is a break point already set somewhere. 
-
 The level's description asked us to try "c" short for "continue".
-
 It is actually used to tell gdb to continue the program after the break point.
-
 After using it, I got the flag.
 
 
