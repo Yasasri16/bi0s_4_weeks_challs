@@ -1,1 +1,0 @@
-When I ran the file "embryogdb_level7" using "gdb ./embryogdb_level7" , I got the level description.. This seems to be the most easiest level fr.. the description asked me to run the command "call (void)win()" and see what happens.. Immediately after calling, I got the flag.. I used this in diff levels and it gave me flag at each level..
