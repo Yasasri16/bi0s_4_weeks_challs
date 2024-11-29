@@ -1,3 +1,5 @@
+Executing the file :
+
 ![Screenshot 2024-11-29 160146](https://github.com/user-attachments/assets/b24f9c20-9d07-454b-99e7-80d7b352fcf3)
 
 After executing the file, gdb took control over this program
