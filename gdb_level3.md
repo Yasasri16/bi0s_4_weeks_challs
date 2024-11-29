@@ -24,5 +24,10 @@ After the random value is set, we use examine command again.
 
 There will be change in one value because a random value is set.
 
+![Screenshot 2024-11-29 164635](https://github.com/user-attachments/assets/44f76f13-41c7-4b93-879f-b0e4c5b9cc98)
 
+Then we use "c" to go through the program. 
 
+It asked us to give the random value.
+
+After entering the value, we will get the flag.
