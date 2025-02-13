@@ -1,4 +1,4 @@
-To execute the file :
+To execute the file along with the script:
 
 ![image](https://github.com/user-attachments/assets/884b2a2f-b0a5-4a0a-8aa2-2c49fb364a0b)
 
